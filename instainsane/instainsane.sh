@@ -1,7 +1,7 @@
 #!/bin/bash
 # Coded by: thelinuxchoice (Don't change, noob!)
-# www.github.com/thelinuxchoice
-# www.instagram.com/linux_choice
+# www.github.com/xnkit69
+# www.instagram.com/xnkit69 
 
 trap 'store; exit 1;' 2
 
@@ -36,7 +36,7 @@ printf "\e[1;95m | || '_ \ / __|| __| / _\` |   \e[0m\e[1;91m/ /\/| '_ \ / __| /
 printf "\e[1;95m | || | | |\__ \| |_ | (_| |\e[0m\e[1;91m/\/ /_  | | | |\__ \| (_| || | | ||  __/ \e[0m\n"
 printf "\e[1;77m |_||_| |_||___/ \__| \__,_|\e[0m\e[1;77m\____/  |_| |_||___/ \__,_||_| |_| \___| \e[0m\n"
 printf "\n"
-printf "\e[1;77m\e[41m  Instagram Brute Forcer v1.0, Author: @thelinuxchoice (Github/IG)  \e[0m\n" #Don't change, noob
+printf "\e[1;77m\e[41m  Instagram Brute Forcer v1.0, Author: @XnKiT69 (Github/IG)  \e[0m\n" #Don't change, noob
 printf "\n"
 }
 
@@ -59,8 +59,8 @@ fi
 
 
 checkroot() {
-#if [[ "$(id -u)" -ne 0 ]]; then
-    printf "\e[1;77mWelcome!\n\e[0m"
+#if [[ "$(id -u)" -ne 0 ]]; thene
+    printf "\e[1;77mWelcome to Ankit instagrma tool!\n\e[0m"
 #    exit 1
 #fi
 }
